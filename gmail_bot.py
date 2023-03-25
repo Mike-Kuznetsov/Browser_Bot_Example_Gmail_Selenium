@@ -29,7 +29,6 @@ while True:
         except:
                 print("Page loading failed. Out of time error.")
                 sleep(10)
-print("waiting 1 finished")
 
 keyboard.write("PUT HERE YOUR PASSWORD");
 driver.execute_script('nextButton = document.getElementsByClassName("VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-k8QpJ VfPpkd-LgbsSe-OWXEXe-dgl2Hf nCP5yc AjY5Oe DuMIQc LQeN7 qIypjc TrZEUc lw1w4b"); nextButton[0].click();');
@@ -41,7 +40,6 @@ while True:
         except:
                 print("Page loading failed. Out of time error.")
                 sleep(10)
-print("waiting 2 finished")
 driver.execute_script('nextButton = document.getElementsByClassName("T-I T-I-KE L3"); nextButton[0].click();');
 
 while True:
@@ -52,7 +50,6 @@ while True:
         except:
                 print("Page loading failed. Out of time error.")
                 sleep(10)
-print("waiting 3 finished")
 keyboard.write("RECEPIENT@gmail.com"); #RECEPIENT ПОЛУЧАТЕЛЬ 
 driver.execute_script('document.getElementsByClassName("aoD az6")[0].click();');
 keyboard.write("Subject of our message"); # SUBJECT ТЕМА СООБЩЕНИЯ
