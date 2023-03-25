@@ -1,3 +1,13 @@
+# This is browser bot example written on Python with Selenium
+# It uses browser to send gmail message automatically
+# You can write your own bot to solve your specific problem
+# For example trading bot
+#
+# My youtube channel: https://www.youtube.com/c/mautoztech
+# My channel about programming: https://www.youtube.com/@aidev
+#
+# Licensed under GNU GPL v3 https://www.gnu.org/licenses/gpl-3.0.en.html
+
 import undetected_chromedriver as uc
 import pickle
 from selenium.common import exceptions
