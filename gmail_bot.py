@@ -17,6 +17,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.common.by import By
 from time import sleep
 driver = uc.Chrome(use_subprocess=True)
+#driver = uc.Chrome(use_subprocess=True, version_main=109) # If you have chrome version error use this line instead. And specify your chrome version
 driver.get("https://mail.google.com/mail/u/0/?tab=wm#inbox")
 
 keyboard.write("PUT_HERE_YOUR_GMAIL_ACCOUNT");
