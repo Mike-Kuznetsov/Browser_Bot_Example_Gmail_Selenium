@@ -4,7 +4,7 @@
 # For example trading bot
 #
 # My youtube channel: https://www.youtube.com/c/mautoztech
-# My channel about programming: https://www.youtube.com/@aidev
+# My channel about programming: https://youtube.com/@espdev
 #
 # Licensed under GNU GPL v3 https://www.gnu.org/licenses/gpl-3.0.en.html
 
