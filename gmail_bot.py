@@ -3,10 +3,8 @@
 # You can write your own bot to solve your specific problem
 # For example trading bot
 #
-# My youtube channel: https://www.youtube.com/c/mautoztech
+# My youtube channel: https://www.youtube.com/c/MautozTech
 # My channel about programming: https://youtube.com/@espdev
-#
-# Licensed under GNU GPL v3 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 import undetected_chromedriver as uc
 from selenium.common import exceptions
