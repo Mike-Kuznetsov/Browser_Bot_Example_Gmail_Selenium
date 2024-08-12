@@ -9,7 +9,6 @@
 # Licensed under GNU GPL v3 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 import undetected_chromedriver as uc
-import pickle
 from selenium.common import exceptions
 import keyboard
 from selenium.webdriver.support import expected_conditions as EC
